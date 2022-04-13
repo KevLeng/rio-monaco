@@ -24,4 +24,4 @@ export synth_geo_location_id_2="GEOLOCATION-C196364332B5D8E2"
 
 
 
-.././monaco_cli -e=../rio-environment.yaml
+.././monaco_cli -e=rio-environment.yaml
