@@ -1,0 +1,11 @@
+delete:
+  - "management-zone/Production"
+  - "management-zone/Dev"
+  - "dashboard/Environment Overview Dashboard"
+  - "conditional-naming-service/Kubernetes DetectedName.Namespace"
+  - "conditional-naming-processgroup/Kubernetes Namespace.Container"
+  - "application-web/PACE (Dev)"
+  - "application-web/PACE (Production)"
+  - "synthetic-monitor/Add to Cart (MultiStep Transaction)"
+  - "synthetic-monitor/Homepage (Single Page)"
+  - "synthetic-monitor/Carts API Check"
